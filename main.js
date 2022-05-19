@@ -84,6 +84,7 @@ console.log ('chu vi là: ' + chuVi);
         + gán: hangChuc = Math.floor(soN / 10)
                hangDonVi = soN % 10
                tongCacSo = hangChuc + hangDonVi
+        + output : tổng (tongCacSo)
 */
 
 var soN = 68;
